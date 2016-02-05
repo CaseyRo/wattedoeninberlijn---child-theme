@@ -25,7 +25,11 @@ sparkling is based on Underscores http://underscores.me/, (C) 2012-2013 Automatt
 .page-id-5986 .post-inner-content{
   padding:0px;
 }
+<<<<<<< HEAD
 .page-id-5986 .entry-title, .page-id-5986 .entry-content p{
+=======
+.page-id-5986 .entry-title{
+>>>>>>> origin/master
   padding: 10px 45px 10px;
   margin-bottom: 0px;
 }
@@ -35,7 +39,10 @@ sparkling is based on Underscores http://underscores.me/, (C) 2012-2013 Automatt
 .page-id-5986 .mpfy-fullwrap{
   margin-bottom: 0px;
 }
+<<<<<<< HEAD
 .page-id-5986 
+=======
+>>>>>>> origin/master
 #breadcrumbs
 {
   background-color:white;
